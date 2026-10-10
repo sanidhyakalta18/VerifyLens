@@ -1,0 +1,482 @@
+[
+  {
+    "file": "membership_0_clean.png",
+    "kind": "membership",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-MEMBERSHIP-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "membership_0_blurred.png",
+    "kind": "membership",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-MEMBERSHIP-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "membership_0_low_contrast.png",
+    "kind": "membership",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-MEMBERSHIP-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "membership_0_missing_field.png",
+    "kind": "membership",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-MEMBERSHIP-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "membership_1_clean.png",
+    "kind": "membership",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-MEMBERSHIP-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "membership_1_blurred.png",
+    "kind": "membership",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-MEMBERSHIP-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "membership_1_low_contrast.png",
+    "kind": "membership",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-MEMBERSHIP-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "membership_1_missing_field.png",
+    "kind": "membership",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-MEMBERSHIP-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "membership_2_clean.png",
+    "kind": "membership",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-MEMBERSHIP-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "membership_2_blurred.png",
+    "kind": "membership",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-MEMBERSHIP-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "membership_2_low_contrast.png",
+    "kind": "membership",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-MEMBERSHIP-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "membership_2_missing_field.png",
+    "kind": "membership",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-MEMBERSHIP-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "membership_3_clean.png",
+    "kind": "membership",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-MEMBERSHIP-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "membership_3_blurred.png",
+    "kind": "membership",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-MEMBERSHIP-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "membership_3_low_contrast.png",
+    "kind": "membership",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-MEMBERSHIP-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "membership_3_missing_field.png",
+    "kind": "membership",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-MEMBERSHIP-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "employee_0_clean.png",
+    "kind": "employee",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-EMPLOYEE-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "employee_0_blurred.png",
+    "kind": "employee",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-EMPLOYEE-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "employee_0_low_contrast.png",
+    "kind": "employee",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-EMPLOYEE-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "employee_0_missing_field.png",
+    "kind": "employee",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-EMPLOYEE-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "employee_1_clean.png",
+    "kind": "employee",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-EMPLOYEE-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "employee_1_blurred.png",
+    "kind": "employee",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-EMPLOYEE-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "employee_1_low_contrast.png",
+    "kind": "employee",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-EMPLOYEE-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "employee_1_missing_field.png",
+    "kind": "employee",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-EMPLOYEE-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "employee_2_clean.png",
+    "kind": "employee",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-EMPLOYEE-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "employee_2_blurred.png",
+    "kind": "employee",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-EMPLOYEE-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "employee_2_low_contrast.png",
+    "kind": "employee",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-EMPLOYEE-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "employee_2_missing_field.png",
+    "kind": "employee",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-EMPLOYEE-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "employee_3_clean.png",
+    "kind": "employee",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-EMPLOYEE-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "employee_3_blurred.png",
+    "kind": "employee",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-EMPLOYEE-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "employee_3_low_contrast.png",
+    "kind": "employee",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-EMPLOYEE-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "employee_3_missing_field.png",
+    "kind": "employee",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-EMPLOYEE-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "student_0_clean.png",
+    "kind": "student",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-STUDENT-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "student_0_blurred.png",
+    "kind": "student",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-STUDENT-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "student_0_low_contrast.png",
+    "kind": "student",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-STUDENT-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "student_0_missing_field.png",
+    "kind": "student",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 0",
+      "Document ID": "DEMO-STUDENT-000",
+      "Date of Birth": "2000-03-15"
+    }
+  },
+  {
+    "file": "student_1_clean.png",
+    "kind": "student",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-STUDENT-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "student_1_blurred.png",
+    "kind": "student",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-STUDENT-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "student_1_low_contrast.png",
+    "kind": "student",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-STUDENT-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "student_1_missing_field.png",
+    "kind": "student",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 1",
+      "Document ID": "DEMO-STUDENT-001",
+      "Date of Birth": "2001-03-15"
+    }
+  },
+  {
+    "file": "student_2_clean.png",
+    "kind": "student",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-STUDENT-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "student_2_blurred.png",
+    "kind": "student",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-STUDENT-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "student_2_low_contrast.png",
+    "kind": "student",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-STUDENT-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "student_2_missing_field.png",
+    "kind": "student",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 2",
+      "Document ID": "DEMO-STUDENT-002",
+      "Date of Birth": "2002-03-15"
+    }
+  },
+  {
+    "file": "student_3_clean.png",
+    "kind": "student",
+    "condition": "clean",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-STUDENT-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "student_3_blurred.png",
+    "kind": "student",
+    "condition": "blurred",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-STUDENT-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "student_3_low_contrast.png",
+    "kind": "student",
+    "condition": "low_contrast",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-STUDENT-003",
+      "Date of Birth": "2003-03-15"
+    }
+  },
+  {
+    "file": "student_3_missing_field.png",
+    "kind": "student",
+    "condition": "missing_field",
+    "expected": {
+      "Name": "Alex Demo 3",
+      "Document ID": "DEMO-STUDENT-003",
+      "Date of Birth": "2003-03-15"
+    }
+  }
+]
